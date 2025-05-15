@@ -32,11 +32,11 @@ const appData = {
   ],
   desktopOrder: [1, 4, 5, 2, 3, 6], // порядок номеров
   pathLines: [
-    { class: "path-line-img-1", src: "/images/ways/DottedLine-1.svg" },
-    { class: "path-line-img-2", src: "/images/ways/DottedLine-2.svg" },
-    { class: "path-line-img-3", src: "/images/ways/DottedLine-3.svg" },
-    { class: "path-line-img-4", src: "/images/ways/DottedLine-4.svg" },
-    { class: "path-line-img-5", src: "/images/ways/DottedLine-5.svg" },
+    { class: "path-line-img-1", src: "images/ways/DottedLine-1.svg" },
+    { class: "path-line-img-2", src: "images/ways/DottedLine-2.svg" },
+    { class: "path-line-img-3", src: "images/ways/DottedLine-3.svg" },
+    { class: "path-line-img-4", src: "images/ways/DottedLine-4.svg" },
+    { class: "path-line-img-5", src: "images/ways/DottedLine-5.svg" },
   ],
   infoContent:
     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In accusantium, aliquid ab doloribus quo possimus minus dolorem. Sequi explicabo quidem rem veniam rerum itaque consectetur accusamus, impedit molestiae ut enim! Lorem ipsum dolor sit, amet consectetur adipisicing elit. In accusantium, aliquid ab doloribus quo possimus minus dolorem. Sequi explicabo quidem rem veniam rerum itaque consectetur accusamus, impedit molestiae ut enim! Lorem ipsum dolor sit, amet consectetur adipisicing elit. In accusantium, aliquid ab doloribus quo possimus minus dolorem. Sequi explicabo quidem rem veniam rerum itaque consectetur accusamus, impedit molestiae ut enim! Lorem ipsum dolor sit, amet consectetur adipisicing elit. In accusantium, aliquid ab doloribus quo possimus minus dolorem. Sequi explicabo quidem rem veniam rerum itaque consectetur accusamus, impedit molestiae ut enim!",
