@@ -1,32 +1,32 @@
 @font-face {
   font-family: "Actay-Regular";
-  src: url("../fonts/Actay/Actay-Regular.otf");
+  src: url("/fonts/Actay/Actay-Regular.otf");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Actay-Condensed";
-  src: url("../fonts/Actay/ActayCondensed-Thin.otf");
+  src: url("/fonts/Actay/ActayCondensed-Thin.otf");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: "Actay-Wide";
-  src: url("../fonts/Actay/ActayWide-Bold.otf");
+  src: url("/fonts/Actay/ActayWide-Bold.otf");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Inter";
-  src: url("../fonts/Inter/Inter-Regular.otf");
+  src: url("/fonts/Inter/Inter-Regular.otf");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Inter-Light";
-  src: url("../fonts/Inter/Inter-Light.otf");
+  src: url("/fonts/Inter/Inter-Light.otf");
   font-weight: 300;
   font-style: normal;
 }
@@ -40,7 +40,7 @@
 body {
   font-family: "Actay-Regular";
   font-size: 10px;
-  background: url("../images/bg.jpg") no-repeat center center / cover;
+  background: url("/images/bg.jpg") no-repeat center center / cover;
   color: #fff;
   min-height: 100vh;
   position: relative;
